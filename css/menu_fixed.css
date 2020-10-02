@@ -59,8 +59,23 @@ background: #c23234;
 }
 .normal_b{
 	font-weight: 300;
-     font-size: 20px;
+     font-size: 18px;
      color: #000000;
      text-align: justify;
      padding-right: 50PX;
 }
+.normal_c{
+    font-weight: 300;
+     font-size: 30px;
+     color: #000000;
+     text-align: left;
+     padding-right: 50PX;
+}
+.centrar{
+    font-weight: 300;
+     font-size: 18px;
+     color: #000000;
+     text-align: center;
+     justify-content: center;
+}
+
